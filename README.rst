@@ -1,9 +1,5 @@
-Template for the Read the Docs tutorial
-=======================================
+Ichigo Template Documentation
+=============================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
+Tutorial for Read the Docs:
 https://docs.readthedocs.io/en/stable/tutorial/

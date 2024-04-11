@@ -1,13 +1,11 @@
-Welcome to Lumache's documentation!
-===================================
+Welcome to the Ichigo Template documentation!
+=============================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Ichigo** is a Project OutFox template designed with elegance in mind.
+It allows for fast Mirin-like gimmick writing as well as easy and robust
+Actor creation and manipulation.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Check out the :doc:`getting-started` section for further information.
 
 .. note::
 
@@ -18,5 +16,5 @@ Contents
 
 .. toctree::
 
-   usage
+   getting-started
    api
