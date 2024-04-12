@@ -1,6 +1,10 @@
 Getting Started
 ===============
 
+.. note::
+
+   This page is a work in progress.
+
 Navigate to the `src` folder. There are three main files:
 
 - `main.lua`: This is the entry point for user code.  
